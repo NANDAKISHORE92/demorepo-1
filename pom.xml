@@ -31,7 +31,7 @@
   <!--version>${params.version}</version-->
   <version>maven-6.0.3-SNAPSHOT</version>
   <artifactId>maven-jpetstore</artifactId>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
 
    <name>JPetStore Demo 6</name>
   <url>http://www.mybatis.org</url>
